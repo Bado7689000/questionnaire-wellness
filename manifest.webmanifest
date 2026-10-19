@@ -1,7 +1,6 @@
 {
   "name": "Suivi de forme",
   "short_name": "Suivi forme",
-  "description": "Questionnaire autonome de suivi de forme pour sportifs",
   "lang": "fr-FR",
   "start_url": "./index.html",
   "scope": "./",
